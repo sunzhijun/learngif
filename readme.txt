@@ -16,3 +16,5 @@ Git tracks changes.
 error
 
 Creating a new branch is quick true
+
+Creating a new branch is quick AND simple.
